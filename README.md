@@ -1,4 +1,4 @@
-### Pushnet implemented with addition
+### Pushnet implemented with attention
 
 ## My files:
 - `newPP_att.py` : PushNet with attention
